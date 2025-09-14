@@ -65,6 +65,7 @@ streamlit run app.py
 <img width="503" height="400" alt="image" src="https://github.com/user-attachments/assets/87cb4225-530e-4689-b522-12256d780c5c" />
 
 
-
+## 🌐 Live Demo
+👉 [Open the App](https://skill-extractor-e6xucufw7jq9t8yktuysrf.streamlit.app/)
 ---
 
