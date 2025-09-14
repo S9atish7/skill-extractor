@@ -1,11 +1,13 @@
-
 import re
 from typing import List, Set
 import nltk
-try:
-    nltk.data.find("tokenizers/punkt")
-except LookupError:
-    nltk.download("punkt")
+
+
+for pkg in ["punkt", "punkt_tab"]:
+    try:
+        nltk.data.find(f"tokenizers/{pkg}")
+    except LookupError:
+        nltk.download(pkg)
 
 def tokenize(text: str) -> List[str]:
     text = text.lower()
