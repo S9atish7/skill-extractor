@@ -1,0 +1,34 @@
+{
+  "Data Scientist": {
+    "required_skills": ["python","pandas","numpy","scikit-learn","statistics","data visualization","sql"],
+    "nice_to_have": ["tensorflow","pytorch","nlp","matplotlib","seaborn","airflow","aws"]
+  },
+  "ML Engineer": {
+    "required_skills": ["python","numpy","pandas","scikit-learn","tensorflow","pytorch","docker"],
+    "nice_to_have": ["mlops","kubernetes","airflow","aws","gcp","fastapi"]
+  },
+  "Data Engineer": {
+    "required_skills": ["python","sql","spark","airflow","docker","linux"],
+    "nice_to_have": ["hadoop","kafka","aws","gcp","terraform"]
+  },
+  "Backend Developer": {
+    "required_skills": ["python","django","flask","fastapi","sql","git"],
+    "nice_to_have": ["docker","kubernetes","aws","microservices","graphql","redis"]
+  },
+  "Frontend Developer": {
+    "required_skills": ["html","css","javascript","react","git"],
+    "nice_to_have": ["typescript","graphql"]
+  },
+  "Android Developer": {
+    "required_skills": ["android","kotlin","git","restful apis"],
+    "nice_to_have": ["firebase","unit testing"]
+  },
+  "DevOps Engineer": {
+    "required_skills": ["linux","docker","kubernetes","git","ci/cd","terraform"],
+    "nice_to_have": ["aws","prometheus","grafana","ansible"]
+  },
+  "QA Engineer": {
+    "required_skills": ["python","selenium","pytest","git"],
+    "nice_to_have": ["junit","playwright","appium","ci/cd"]
+  }
+}

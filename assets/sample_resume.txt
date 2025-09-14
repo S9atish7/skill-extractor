@@ -1,0 +1,1 @@
+Python, SQL, Pandas, Numpy, Scikit-learn, Docker, AWS

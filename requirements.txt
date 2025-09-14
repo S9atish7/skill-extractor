@@ -1,0 +1,8 @@
+streamlit
+nltk
+spacy
+pyresparser
+pdfminer.six
+docx2txt
+pandas
+numpy
