@@ -5,7 +5,7 @@ import streamlit as st
 from utils.parsing import extract_text_from_file
 from utils.nlp import tokenize, extract_skills
 from utils.matching import score_roles
-from utils.db import save_result
+#from utils.db import save_result
 
 # Try to use PyResparser (spaCy) if available
 ENABLE_PYRESPARSER = True
@@ -91,9 +91,9 @@ if uploaded:
     )
 
     # ✅ Save best result to MySQL
-    if results:
-        best = results[0]
-        save_result(uploaded.name, best["role"], best["score"], found_skills)
+   # if results:
+    #    best = results[0]
+     #   save_result(uploaded.name, best["role"], best["score"], found_skills)
 
     # -------- Recommendations -------- #
     st.markdown("---")
