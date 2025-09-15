@@ -60,9 +60,12 @@ streamlit run app.py
 
 (Add screenshots of your app analysing a resume and the results table here)
 
-<img width="650" height="380" alt="image" src="https://github.com/user-attachments/assets/be429532-6db1-49b8-ac25-92b67fc7072f" />
-<img width="580" height="374" alt="image" src="https://github.com/user-attachments/assets/25069eab-3de3-459b-831e-8b90d21d45be" />
-<img width="503" height="400" alt="image" src="https://github.com/user-attachments/assets/87cb4225-530e-4689-b522-12256d780c5c" />
+<img width="1259" height="761" alt="Screenshot 2025-09-14 130610" src="https://github.com/user-attachments/assets/c03d7c55-714f-4471-8f06-40679310c48b" />
+
+<img width="1160" height="749" alt="Screenshot 2025-09-14 130725" src="https://github.com/user-attachments/assets/2e6119ae-123b-4a13-a70f-b862c8f7fd43" />
+
+
+<img width="1005" height="800" alt="Screenshot 2025-09-14 130755" src="https://github.com/user-attachments/assets/39ed567d-60a2-4cc6-be50-614f5720346e" />
 
 
 ## 🌐 Live Demo
